@@ -1,1 +1,1 @@
-https://mybinder.org/v2/gh/pierreghesqui/decouvertePython/main
+https://mybinder.org/v2/gh/pierreghesqui/decouvertePythonRapide/main
